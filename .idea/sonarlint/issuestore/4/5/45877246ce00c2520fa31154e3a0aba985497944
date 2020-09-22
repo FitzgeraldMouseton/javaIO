@@ -1,0 +1,6 @@
+
+`
+java:S2095""JUse try-with-resources or close this "OutputStream" in a "finally" clause.(ÿŠù»
+i
+java:S2095#"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(ÑìË³úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÑÒŒ

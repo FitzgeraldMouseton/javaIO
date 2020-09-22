@@ -1,0 +1,6 @@
+
+l
+java:S2095"QUse try-with-resources or close this "ServerSocketChannel" in a "finally" clause.(ãöŒÎüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù‘ªÁ
+B
+java:S1128",Remove this unused import 'java.net.Socket'.(­‡àú
