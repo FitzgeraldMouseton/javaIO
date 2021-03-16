@@ -82,7 +82,7 @@ public class ElementaryWriter {
 //    private static void writeFileC(Path path) {
 //        try (Writer writer = new FileWriter(path.toFile())) {
 //            writer.write("Good day, neighbour, innit?");
-//            writer.append("\nDamn.. Yes, definitely it is a wonderful day! Fuck you, moron..", 7, 45);
+//            writer.append("\nDamn.. Yes, definitely it is a wonderful day!", 7, 45);
 //        } catch (Exception ex) {
 //            System.out.println(ex.getMessage());
 //        }
